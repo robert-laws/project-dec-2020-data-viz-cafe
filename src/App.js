@@ -1,5 +1,9 @@
 function App() {
-  return <div className='App'>Data Viz App</div>;
+  return (
+    <div>
+      <h1 className='text-4xl text-center'>Data Viz App</h1>
+    </div>
+  );
 }
 
 export default App;
